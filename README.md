@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Preetal M
+### 👋 Hi, I’m Preetal M
 #### ✨ A quick intro about myself✨
 - 🌱  I’m a Data Analyst committed to continually learning new skills. I consume Data to communicate meaningful Insights
 - 🔭  I’m currently working on Data Analysis & Visualization projects
