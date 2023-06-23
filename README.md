@@ -2,7 +2,7 @@
 #### ✨ A quick intro about myself✨
 - 🌱  I’m a Data Analyst committed to continually learning new skills. I consume Data to communicate meaningful Insights
 - 🔭  I’m currently working on Data Analysis & Visualization projects
-- 👨‍💻  All of my projects are available at https://www.mavenanalytics.io/profile/Preetal-M/162400415
+- 👨‍💻  Chech out my portfolio at https://www.mavenanalytics.io/profile/Preetal-M/162400415
 - 📫  How to reach me at mpreetal@gmail.com
 
 <!---
